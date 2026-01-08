@@ -25,7 +25,7 @@ The system is built using Spring Boot microservices, Apache Kafka, Keycloak auth
 ## 📸 Project Screenshots
 
 ### 🔐 Login Page
-![Login Page](Images/Login Dashboard.png)
+![Login Page](Images/Login-Dashboard.png)
 
 ### 🔐 Keycloak Authentication
 ![Authentication](Images/Keycloak Authentication.png)
