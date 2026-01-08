@@ -28,13 +28,13 @@ The system is built using Spring Boot microservices, Apache Kafka, Keycloak auth
 ![Login Page](https://github.com/Manwatkar27/Fitness-AI/blob/main/Images/Login%20Dashboard.png)
 
 ### 🔐 Keycloak Authentication
-![Authentication](Images/Keycloak Authentication.png)
+![Authentication](https://github.com/Manwatkar27/Fitness-AI/blob/main/Images/Keycloak%20Authentication.png)
 
 ### 🏃 Add Activity
-![Add Activity](Images/Add Activity.png)
+![Add Activity](https://github.com/Manwatkar27/Fitness-AI/blob/main/Images/Add%20Activity.png)
 
 ### 🧠 AI Recommendation View
-![AI Recommendation](Images/AI Recommendations.png)
+![AI Recommendation](https://github.com/Manwatkar27/Fitness-AI/blob/main/Images/AI%20Recommendations.png)
 
 ## 🧠 How the Project Works (High-Level Flow)
 
@@ -193,5 +193,6 @@ npm install
 npm run dev
 
 👨‍💻 Author
+
 Aman Manwatkar
    
